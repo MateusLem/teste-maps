@@ -18,6 +18,12 @@
       "supportsTablet": true
     },
     "android": {
+      "package":"com.suaempresa.testemaps",
+      "config":{
+        "googleMaps": {
+          "apiKey": "AIzaSyA5lhfPVAumLM5T262_qd_V9tje9lCUUJc"
+        }
+      },
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
